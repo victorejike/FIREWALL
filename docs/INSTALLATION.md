@@ -11,7 +11,7 @@
 
 1. Clone the repository:
    `bash
-   git clone https://github.com/victorejike/FIREWALL/real-time-firewall-monitor.git
+   git clone https://github.com/victorejike/real-time-firewall-monitor.git
    cd real-time-firewall-monitor
 
    sudo apt-get update
