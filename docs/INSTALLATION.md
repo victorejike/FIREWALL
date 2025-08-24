@@ -26,3 +26,5 @@ python3 middleware/data_processor.py
 
 chmod +x scripts/start_system.sh
 ./scripts/start_system.sh
+
+sudo setcap cap_net_raw,cap_net_admin=eip backend/firewall_capture
